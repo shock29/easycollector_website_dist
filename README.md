@@ -1,2 +1,2 @@
-# easy-scraper
-chrome extension - easy scraper
+# easy-collector
+chrome extension - easy collector
